@@ -1,16 +1,34 @@
-# numbers_api
+# Numbers API Flutter
 
-A new Flutter project.
+Este é um aplicativo Flutter que consome a [Numbers API](http://numbersapi.com/), proporcionando uma maneira interessante de obter informações sobre números. O app exibe fatos sobre números de forma dinâmica, permitindo ao usuário interagir com diferentes tipos de dados. Link do video: 
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Consome a API Numbers para exibir fatos sobre números aleatórios.
+- Permite ao usuário visualizar informações sobre números de maneira divertida.
+- Interface simples e fácil de usar.
+- Integração com a API Numbers para obter dados ao vivo sobre números.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Framework para construção do aplicativo móvel.
+- **Dart**: Linguagem de programação utilizada para desenvolver o app.
+- **Numbers API**: API para obter fatos sobre números.
+- **http**: Pacote Dart utilizado para realizar requisições HTTP à API.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Pré-requisitos
+
+Antes de rodar o projeto, você precisa ter o seguinte instalado:
+
+- **Flutter**: Caso ainda não tenha o Flutter instalado, você pode seguir a [documentação oficial](https://docs.flutter.dev/get-started/install) para instalar o Flutter.
+- **Dart**: O Dart é instalado automaticamente com o Flutter.
+
+## Como Rodar o Projeto
+
+1. **Clone o repositório**:
+
+   Primeiro, clone o repositório para sua máquina local usando o comando:
+
+   ```bash
+   git clone https://github.com/Claudemiro-Nogueira/todas_as_atividades_de_Felipe/tree/main/numbers_api
+Instale as dependencia com "flutter pub get" e rode com "flutter run"
