@@ -1,6 +1,6 @@
 # Numbers API Flutter
 
-Este é um aplicativo Flutter que consome a [Numbers API](http://numbersapi.com/), proporcionando uma maneira interessante de obter informações sobre números. O app exibe fatos sobre números de forma dinâmica, permitindo ao usuário interagir com diferentes tipos de dados. Link do video: 
+Este é um aplicativo Flutter que consome a [Numbers API](http://numbersapi.com/), proporcionando uma maneira interessante de obter informações sobre números. O app exibe fatos sobre números de forma dinâmica, permitindo ao usuário interagir com diferentes tipos de dados. Link do video: https://youtu.be/EUsXv36eyh0
 
 ## Funcionalidades
 
