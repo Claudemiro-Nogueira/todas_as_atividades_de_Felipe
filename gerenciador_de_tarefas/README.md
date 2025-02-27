@@ -4,11 +4,10 @@ Peço desculpas pela confusão! Vou gerar o `README.md` completo e estruturado, 
 
 # Gerenciador de Tarefas
 
-![GitHub](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Um aplicativo simples de gerenciamento de tarefas desenvolvido em Flutter. Este aplicativo permite que os usuários criem, editem, marquem como concluídas e excluam tarefas. As tarefas são armazenadas localmente no dispositivo usando o pacote `shared_preferences`.
 
-Link do video: 
+Link do video: https://youtu.be/R26mbvjgxkc
 ---
 
 ## Funcionalidades
