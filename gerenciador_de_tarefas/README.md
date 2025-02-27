@@ -1,5 +1,3 @@
-Peço desculpas pela confusão! Vou gerar o `README.md` completo e estruturado, sem cortes ou interrupções. Aqui está o conteúdo completo:
-
 ---
 
 # Gerenciador de Tarefas
